@@ -1,0 +1,22 @@
+{
+  "file_name": "final_merged_data.csv",
+  "file_path": r"C:\\Users\\cent2\\OneDrive\\CSU GLOBAL 2025\\MIS 505\\MOD 8\\final_merged_data.csv",
+  "columns": [
+    {
+      "column_name": "id",
+      "data_type": "integer",
+      "description": "Unique identifier for each entry"
+    },
+    {
+      "column_name": "name",
+      "data_type": "string",
+      "description": "Name of the individual"
+    },
+    {
+      "column_name": "age",
+      "data_type": "integer",
+      "description": "Age of the individual"
+    }
+    // Add additional columns as needed
+  ]
+}
